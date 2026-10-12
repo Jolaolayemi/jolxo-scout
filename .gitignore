@@ -1,0 +1,16 @@
+# local state, never uploaded or baked into the image (the bot rebuilds it on the /data volume)
+data/
+data*/
+cache/
+out/
+*.sqlite
+*.sqlite-journal
+__pycache__/
+*.pyc
+*.png
+*.bak
+*.log
+.env
+.env.*
+!.env.example
+.chat_ids.json

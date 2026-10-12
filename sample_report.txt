@@ -1,0 +1,113 @@
+Memecoin scan · 06 Oct 2026 08:33 UTC
+496 coins seen, 48 passed filters, 23 fully checked.
+Ranked by: recovered -70% dumps, time under $10M, community, holder spread, volume trend.
+
+1. $67 (SOL) · MC $2.1M · Liq $396k · 382d old
+Survived 3× -70% dumps in 364d of data
+Under $10M MC on 299 of 364 days (longest run 255d)
+Vol 24h $41.8k · 7d vs prior 4w: 0.8x
+Holders: top10 17% · no linked-wallet clusters flagged · 62,787 holders
+Community: X 6,904 · TG 1,693
+Entry (mid-range): $0.00145–$0.0017 (MC $1.4M–$1.6M); invalid on a daily close below $0.00118 (MC $1.1M). Now $0.00224.
+Risk 1/5: thin daily volume
+Chart: https://dexscreener.com/solana/dmafl613xtipua3jfnyczavwt7xsiyf9cr3qmrmzqhb6
+Bubblemap: https://v2.bubblemaps.io/map?address=9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump&chain=solana
+CA: 9AvytnUKsLxPxFHFqS6VLxaxt5p6BhYNr53SD2Chpump
+NFA, memecoins can go to zero.
+
+2. $meowl (SOL) · MC $378k · Liq $85.9k · 512d old
+Survived 4× -70% dumps in 364d of data
+Under $10M MC on 364 of 364 days (longest run 364d)
+Vol 24h $29.6k · 7d vs prior 4w: 0.8x
+Holders: top10 25% · linked-wallet clusters ≤52% · 4,760 holders
+Community: X 11,260
+Entry (mid-range): $0.000263–$0.000308 (MC $263k–$308k); invalid on a daily close below $0.000215 (MC $215k). Now $0.000378.
+Risk 3/5: linked-wallet clusters hold up to 52%; thin daily volume
+Chart: https://dexscreener.com/solana/7x7tqm1xeqioaqtxri9ubvvchlvjacqarzkzwfx7t2ao
+Bubblemap: https://v2.bubblemaps.io/map?address=8ryRQD6jWfxnSdvvVbQ8Tzwo1NgGP7w1X1nQPpb4pump&chain=solana
+CA: 8ryRQD6jWfxnSdvvVbQ8Tzwo1NgGP7w1X1nQPpb4pump
+NFA, memecoins can go to zero.
+
+3. $KORI (SOL) · MC $3.3M · Liq $528k · 511d old
+Survived 3× -70% dumps in 364d of data
+Under $10M MC on 351 of 364 days (longest run 345d)
+Vol 24h $27.0k · 7d vs prior 4w: 0.5x
+Holders: top10 18% · no linked-wallet clusters flagged · 41,310 holders
+Community: X 14,092 · TG 1,312
+Entry (mid-range): $0.00235–$0.00276 (MC $2.4M–$2.8M); invalid on a daily close below $0.00192 (MC $1.9M). Now $0.0033.
+Risk 2/5: volume fading; thin daily volume
+Chart: https://dexscreener.com/solana/j28smrhedlyhpzcjlvhexsimifedswfhobhpeqryhdjl
+Bubblemap: https://v2.bubblemaps.io/map?address=HtTYHz1Kf3rrQo6AqDLmss7gq5WrkWAaXn3tupUZbonk&chain=solana
+CA: HtTYHz1Kf3rrQo6AqDLmss7gq5WrkWAaXn3tupUZbonk
+NFA, memecoins can go to zero.
+
+4. $dreams (SOL) · MC $3.6M · Liq $425k · 625d old
+Survived 4× -70% dumps in 364d of data
+Under $10M MC on 287 of 364 days (longest run 217d)
+Vol 24h $45.2k · 7d vs prior 4w: 0.9x
+Holders: top10 33% · no linked-wallet clusters flagged · 29,131 holders
+Community: X 14,904
+Entry (mid-range): $0.00248–$0.00291 (MC $2.5M–$2.9M); invalid on a daily close below $0.00203 (MC $2.0M). Now $0.00356.
+Risk 2/5: top-10 wallets hold 33%; largest wallet 14.1%; thin daily volume
+Chart: https://dexscreener.com/solana/hmqjnkrvf24muvgdwc4ljulxwgmbrgu7hawlji6hlajq
+Bubblemap: https://v2.bubblemaps.io/map?address=GMzuntWYJLpNuCizrSR7ZXggiMdDzTNiEmSNHHunpump&chain=solana
+CA: GMzuntWYJLpNuCizrSR7ZXggiMdDzTNiEmSNHHunpump
+NFA, memecoins can go to zero.
+
+5. $LARP (SOL) · MC $301k · Liq $86.1k · 262d old
+Survived 4× -70% dumps in 263d of data (now 76% off its last peak)
+Under $10M MC on 263 of 263 days (longest run 263d)
+Vol 24h $22.1k · 7d vs prior 4w: 0.5x
+Holders: top10 22% · linked-wallet clusters ≤23% · 14,861 holders
+Community: X 3,499 · TG 1,075
+Entry (range support): $0.000285–$0.000345 (MC $285k–$345k); invalid on a daily close below $0.00024 (MC $240k). Now $0.000301.
+Risk 3/5: linked-wallet clusters hold up to 23%; volume fading; thin daily volume; still in a 76% drawdown
+Chart: https://dexscreener.com/solana/2ytdakr7yxywzk5gmu3ihhvzyyr8xj8frrnrejukhe6n
+Bubblemap: https://v2.bubblemaps.io/map?address=EygStH4gHv1h4E8w4raYv6NGsrDiij3nbfCc26iTpump&chain=solana
+CA: EygStH4gHv1h4E8w4raYv6NGsrDiij3nbfCc26iTpump
+NFA, memecoins can go to zero.
+
+
+----- next message -----
+
+
+6. $RETARDIO (SOL) · MC $1.4M · Liq $362k · 977d old
+Survived 2× -70% dumps in 364d of data
+Under $10M MC on 362 of 364 days (longest run 362d)
+Vol 24h $66.0k · 7d vs prior 4w: 0.9x
+Holders: top10 14% · no linked-wallet clusters flagged · 128,701 holders
+Community: TG 8,261
+Entry (range support): $0.00131–$0.00159 (MC $1.3M–$1.6M); invalid on a daily close below $0.0011 (MC $1.1M). Now $0.00142.
+Risk 1/5: no major flags found
+Chart: https://dexscreener.com/solana/5elrsn6qdqtqsbf8kdw4b8mvpeeazhccwadptzmyszxh
+Bubblemap: https://v2.bubblemaps.io/map?address=6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx&chain=solana
+CA: 6ogzHhzdrQr9Pgv6hZ2MNze7UrzBMAFyBBWUYp1Fhitx
+NFA, memecoins can go to zero.
+
+7. $1 (SOL) · MC $517k · Liq $195k · 383d old
+Survived 3× -70% dumps in 364d of data
+Under $10M MC on 302 of 364 days (longest run 256d)
+Vol 24h $22.7k · 7d vs prior 4w: 0.3x
+Holders: top10 17% · linked-wallet clusters ≤2% · 43,162 holders
+Community: X 6,994
+Entry (mid-range): $0.000413–$0.000485 (MC $413k–$485k); invalid on a daily close below $0.000337 (MC $337k). Now $0.000517.
+Risk 2/5: volume fading; thin daily volume
+Chart: https://dexscreener.com/solana/6sekz73vph5afymqtzav6h5vaqqlz2c8wqecq6mhlqfk
+Bubblemap: https://v2.bubblemaps.io/map?address=GMvCfcZg8YvkkQmwDaAzCtHDrrEtgE74nQpQ7xNabonk&chain=solana
+CA: GMvCfcZg8YvkkQmwDaAzCtHDrrEtgE74nQpQ7xNabonk
+NFA, memecoins can go to zero.
+
+8. $BULLISH (SOL) · MC $504k · Liq $108k · 369d old
+Survived 2× -70% dumps in 364d of data
+Under $10M MC on 266 of 364 days (longest run 242d)
+Vol 24h $19.7k · 7d vs prior 4w: 0.5x
+Holders: top10 20% · linked-wallet clusters ≤34% · 49,417 holders
+Community: TG 1,631
+Entry (range support): $0.000451–$0.000546 (MC $451k–$546k); invalid on a daily close below $0.00038 (MC $380k). Now $0.000504.
+Risk 3/5: linked-wallet clusters hold up to 34%; volume fading; thin daily volume
+Chart: https://dexscreener.com/solana/gc1utsxrrlauwby3uwsemjuxhjmjhhv1sxj9a1jhvyxp
+Bubblemap: https://v2.bubblemaps.io/map?address=C2omVhcvt3DDY77S2KZzawFJQeETZofgZ4eNWWkXpump&chain=solana
+CA: C2omVhcvt3DDY77S2KZzawFJQeETZofgZ4eNWWkXpump
+NFA, memecoins can go to zero.
+
+Not financial advice. Memecoins can go to zero. Entry zones are rule-based levels, not predictions. Price history covers at most the last 12 months. Check the bubblemap yourself before buying.
